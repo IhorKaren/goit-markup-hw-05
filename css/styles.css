@@ -146,7 +146,6 @@ img {
   line-height: 1.14;
   letter-spacing: 0.02em;
 
-  transition-property: color;
   transition: color 250ms var(--titing-function);
 }
 
@@ -181,7 +180,6 @@ img {
   line-height: 1.14;
   letter-spacing: 0.02em;
 
-  transition-property: color;
   transition: color 250ms var(--titing-function);
 }
 
@@ -194,7 +192,6 @@ img {
   fill: var(--primary-text-color);
   margin-right: 10px;
 
-  transition-property: fill;
   transition: fill 250ms var(--titing-function);
 }
 
